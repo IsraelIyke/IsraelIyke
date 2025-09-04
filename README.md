@@ -83,6 +83,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsraelIyke)](https://git.io/streak-stats)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 
 <!--
 **IsraelIyke/IsraelIyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
