@@ -21,5 +21,5 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
 
           # Styling options
-          card_width: "300"       # Default is 250px
-          border_radius: "12"     # Rounded corners (px)
+          card_width: "150"       # Default is 250px
+          border_radius: "10"     # Rounded corners (px)
