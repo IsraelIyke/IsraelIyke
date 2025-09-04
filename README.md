@@ -50,10 +50,10 @@
 ---
 
 ### 🚀 Projects  
-- 🤖 **Ezynotify** – Telegram bot + Supabase backend for website keyword & update monitoring  
-- 🛒 **E-commerce Sites** – product catalog, cart system & checkout flow  
-- 📑 **BOQ Web App** – upload building plans → get materials quantity list  
-- 🌐 **IoT Prototypes** – environmental parameters detection devices, smart home modules  
+- 🤖 **Ezynotify** – Telegram bot + Supabase backend for website keyword & update monitoring  [Check It Out](https://t.me/ezynotify_bot)
+- 🛒 **E-commerce Sites** – product catalog, cart system & checkout flow  [Check It Out](https://www.braxxor.com)
+- 📑 **BOQ Web App** – upload building plans → get materials quantity list  (Still working on this)
+- 🌐 **IoT Prototypes** – environmental parameters detection devices, smart home modules  [Check Some Out](https://www.linkedin.com/posts/israel-ikechukwu-nwangwu_in-2024-after-my-graduation-and-before-nysc-activity-7359487403364954113-lD8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrtZMsBiKpliG5cTUW_pIkJ1gWm9wiX-Ec)
 
 ---
 
