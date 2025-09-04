@@ -85,6 +85,14 @@
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" />
+
+---
+
 <p align="center">⭐️ From <a href="https://github.com/IsraelIyke">IsraelIyke</a></p>
 
 <!--
