@@ -74,16 +74,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsraelIyke&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
-
----
 
 <img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
 
