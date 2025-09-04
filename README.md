@@ -67,6 +67,75 @@
 ⭐️ From [Nwangwu Israel Ikechukwu](https://github.com/IsraelIyke)  
 
 
+
+<h1 align="center">Hi 👋, I'm Nwangwu Israel Ikechukwu</h1>
+<h3 align="center">Environmental Engineering Student | Web Developer | IoT Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
+
+---
+
+### 🌟 About Me  
+- 🎓 Studying **Environmental Engineering** at *University of Padua*  
+- 💻 Building with **Next.js, Supabase, Flutter, and Python**  
+- 📡 Passionate about **IoT, Smart Homes, and Automation**  
+- 🐐 Exploring **agribusiness & low-maintenance farming**  
+- 🎥 Soon launching my **Tech & IoT YouTube channel**  
+- 🌱 Currently learning **Italian & advanced IoT concepts**  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,flutter,python,nodejs,express,html,css,tailwind,git,supabase" />
+</p>
+
+---
+
+### 🚀 Projects  
+- 🤖 **Ezynotify** – Telegram bot + Supabase backend for monitoring  
+- 🛒 **E-commerce Site** – product catalog, cart system & checkout flow  
+- 📑 **BOQ Web App** – upload building plans → get materials quantity list  
+- 🌐 **IoT Prototypes** – smart wet floor detector & home automation devices  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezy&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezy&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🔥 Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ezy&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🎯 Fun Facts  
+- ⚡ I combine **engineering + software + hardware** to solve problems  
+- 🐐 Inspired by **agribusiness + IoT farming**  
+- 🎯 Goal: Build useful tools for everyday people  
+- 📊 Always experimenting with **side projects**  
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Ezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Ezy">Ezy</a></p>
+
 <!--
 **IsraelIyke/IsraelIyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
