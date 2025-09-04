@@ -71,15 +71,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezy&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezy&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsraelIyke&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ### 🔥 Streaks  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ezy&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsraelIyke&theme=tokyonight" height="160" />
 </p>
 
 ---
