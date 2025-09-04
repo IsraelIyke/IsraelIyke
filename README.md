@@ -15,7 +15,7 @@
 
 ### 🚀 About Me  
 <!--- 🎓 Pursuing an MSc in **Environmental Engineering** at *University of Padua* --> 
-- 🔧 I build **full-stack web apps** using **React/Next.js, Node/Expressjs, and Tailwind**  
+- 🔧 I build **full-stack web and mobile apps** using **React/Next.js, Node/Expressjs, Flutter and Tailwind**  
 - 📡 Interested in **IoT devices, smart homes, and embedded systems (ESP32, sensors, automation)**  
 - 📊 Exploring **data-driven solutions** (BOQ app for building plans, monitoring scripts, bots)  
 
