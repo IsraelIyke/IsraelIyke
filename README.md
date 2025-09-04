@@ -72,6 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsraelIyke&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" height="160" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsraelIyke)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -83,7 +84,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsraelIyke)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&theme=dark" alt="GitHub Streak" /></a>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Chart js with Next js #1 - project setup](https://ytcards.demolab.com/?id=hIYb0lmjF1k&title=Chart+js+with+Next+js+%231+-+project+setup&lang=en&timestamp=1698612092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=12 "Chart js with Next js #1 - project setup")](https://www.youtube.com/watch?v=hIYb0lmjF1k)
