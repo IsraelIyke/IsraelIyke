@@ -56,13 +56,13 @@
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 - 🛠️ **Advanced IoT** & smart sensor systems  
 - 🗣️ Conversational **Italian**  
 
 ---
 
-## ✨ Fun Facts
+### ✨ Fun Facts
 - 👀 I love combining **engineering + software + hardware** to solve problems  
 - 🎯 Goal: Build useful tools that everyday people can interact with easily  
 
