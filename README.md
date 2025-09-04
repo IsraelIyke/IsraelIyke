@@ -77,7 +77,7 @@
 ---
 
 ### 📈 Streak and Contribution
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&&theme=tokyonight" alt="GitHub Streak" /></a>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
