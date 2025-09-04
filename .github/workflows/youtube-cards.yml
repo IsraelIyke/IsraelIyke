@@ -1,4 +1,5 @@
 name: GitHub Readme YouTube Cards
+
 on:
   schedule:
     # Runs every hour, on the hour
@@ -13,4 +14,12 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          # Playlist sorted by most viewed
+          playlist_id: ${{ secrets.YOUTUBE_PLAYLIST_ID }}
+          readme_path: README.md
+          max_videos: 6   # Change to number of videos you want
+          comment_tag_name: YOUTUBE-CARDS
+
+          # Styling options
+          card_width: "300"       # Default is 250px
+          border_radius: "12"     # Rounded corners (px)
