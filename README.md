@@ -59,8 +59,8 @@
 
 ## 📫 Connect With Me
 - GitHub: [@IsraelIyke](https://github.com/IsraelIyke)  
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/israel-ikechukwu-nwangwu)  
-- YouTube: [Youtube](http://www.youtube.com/@reactNextLib)  
+- LinkedIn: [israel-ikechukwu-nwangwu](www.linkedin.com/in/israel-ikechukwu-nwangwu)  
+- YouTube: [@reactNextLib](http://www.youtube.com/@reactNextLib)  
 
 ---
 
