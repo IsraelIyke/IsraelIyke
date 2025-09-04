@@ -79,7 +79,7 @@
 
 ### 🔥 Streaks  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsraelIyke&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=IsraelIyke&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
