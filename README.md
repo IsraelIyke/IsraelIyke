@@ -77,9 +77,9 @@
 
 ---
 
-### 🔥 Streaks  
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsraelIyke&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
