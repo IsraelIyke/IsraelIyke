@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nwangwu Israel Ikechukwu</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Nwangwu Israel Ikechukwu</h1>
 <h3 align="center">Web and Mobile Developer | IoT Enthusiast | Environmental Engineering Master’s Student</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
-
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/israel-ikechukwu-nwangwu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p justify="center" align="center">
+  <div align="center"> <a href="https://www.linkedin.com/in/israel-ikechukwu-nwangwu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/IsraelIyke" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="http://www.youtube.com/@reactNextLib" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  </div>
+  <div align="center" >     
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR4enMzZ2JqamNpMmtnOGU5dWZrcWxoY241bjA4Y21xMGszcWJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  </div>
 </p>
-
----
 
 ### 🚀 About Me  
 <!--- 🎓 Pursuing an MSc in **Environmental Engineering** at *University of Padua* --> 
