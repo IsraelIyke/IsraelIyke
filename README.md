@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwangwu Israel Ikechukwu</h1>
-<h3 align="center">Web Developer | IoT Enthusiast | Environmental Engineering Master’s Student</h3>
+<h3 align="center">Web and Mobile Developer | IoT Enthusiast | Environmental Engineering Master’s Student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
