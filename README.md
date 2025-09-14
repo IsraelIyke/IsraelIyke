@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Nwangwu Israel Ikechukwu</h1>
-<h3 align="center">Web and Mobile Developer | IoT Enthusiast | Civil and Environmental Engineer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 ---
 
@@ -14,9 +14,7 @@
 </p>
 
 ### 🚀 About Me  
-<!--- 🎓 Pursuing an MSc in **Environmental Engineering** at *University of Padua* --> 
 - 🔧 I build **full-stack web and mobile apps** using **React/Next.js, Node/Expressjs, Flutter and Tailwind**  
-- 📡 Interested in **IoT devices, smart homes, and embedded systems (ESP32, sensors, automation)**  
 - 📊 Exploring **data-driven solutions** (BOQ app for building plans, monitoring scripts, bots)  
 
 ---
@@ -47,24 +45,12 @@
 
 ---
 
-### 🚀 Projects  
+### 🚀 Some of my Projects  
 - 🤖 **Ezynotify** – Telegram bot + Supabase backend for website keyword & update monitoring  [Check It Out](https://t.me/ezynotify_bot)
 - 🎓 **Edu-Tech Website** – varlc official website and platform for opportunities (scholarships, internships, research, grants, and more)  [Check It Out](https://www.varlc.com)
 - 🛒 **E-commerce Site** – braxxor official website with product catalog, cart system & checkout flow  [Check It Out](https://www.braxxor.com)
 - 📑 **BOQ Web App** – upload building plans → get materials quantity list  (Still working on this)
 - 🌐 **IoT Prototypes** – environmental parameters detection devices, smart home modules  [Check Some Out](https://www.linkedin.com/posts/israel-ikechukwu-nwangwu_in-2024-after-my-graduation-and-before-nysc-activity-7359487403364954113-lD8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrtZMsBiKpliG5cTUW_pIkJ1gWm9wiX-Ec)
-
----
-
-### 📚 Currently Learning
-- 🛠️ **Advanced IoT** & smart sensor systems  
-- 🗣️ Conversational **Italian**  
-
----
-
-### ✨ Fun Facts
-- 👀 I love combining **engineering + software + hardware** to solve problems  
-- 🎯 Goal: Build useful tools that everyday people can interact with easily  
 
 ---
 
@@ -92,19 +78,3 @@
 [![How to Create Audio Waveform with WaveSurfer.js in React/Next.js | Neumorphism Style](https://ytcards.demolab.com/?id=T4wmkzt87O4&title=How+to+Create+Audio+Waveform+with+WaveSurfer.js+in+React%2FNext.js+%7C+Neumorphism+Style&lang=en&timestamp=1701393466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "How to Create Audio Waveform with WaveSurfer.js in React/Next.js | Neumorphism Style")](https://www.youtube.com/watch?v=T4wmkzt87O4)
 [![How to Animate Elements on Scroll with AOS in React/Next.js](https://ytcards.demolab.com/?id=0FUpMOVq__w&title=How+to+Animate+Elements+on+Scroll+with+AOS+in+React%2FNext.js&lang=en&timestamp=1707114337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "How to Animate Elements on Scroll with AOS in React/Next.js")](https://www.youtube.com/watch?v=0FUpMOVq__w)
 <!-- END YOUTUBE-CARDS -->
-
-
-<!--
-**IsraelIyke/IsraelIyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
