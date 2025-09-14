@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
+<!--
 **IoT & Hardware**  
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -42,8 +42,7 @@
   <img src="https://img.shields.io/badge/ESP32--C3-CC0000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensors%20&%20Modules-555555?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
-
----
+-->
 
 ### 🚀 Some of my Projects  
 - 🤖 **Ezynotify** – Telegram bot + Supabase backend for website keyword & update monitoring  [Check It Out](https://t.me/ezynotify_bot)
