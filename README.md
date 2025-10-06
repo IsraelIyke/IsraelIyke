@@ -72,8 +72,5 @@
 
 ### 💻 Featured Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Chart js with Next js #1 - project setup](https://ytcards.demolab.com/?id=hIYb0lmjF1k&title=Chart+js+with+Next+js+%231+-+project+setup&lang=en&timestamp=1698612092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "Chart js with Next js #1 - project setup")](https://www.youtube.com/watch?v=hIYb0lmjF1k)
-[![Chart js with Next js #2 - barchart](https://ytcards.demolab.com/?id=Ipvt6cwVVEM&title=Chart+js+with+Next+js+%232+-+barchart&lang=en&timestamp=1698613154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "Chart js with Next js #2 - barchart")](https://www.youtube.com/watch?v=Ipvt6cwVVEM)
-[![How to Create Audio Waveform with WaveSurfer.js in React/Next.js | Neumorphism Style](https://ytcards.demolab.com/?id=T4wmkzt87O4&title=How+to+Create+Audio+Waveform+with+WaveSurfer.js+in+React%2FNext.js+%7C+Neumorphism+Style&lang=en&timestamp=1701393466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "How to Create Audio Waveform with WaveSurfer.js in React/Next.js | Neumorphism Style")](https://www.youtube.com/watch?v=T4wmkzt87O4)
-[![How to Animate Elements on Scroll with AOS in React/Next.js](https://ytcards.demolab.com/?id=0FUpMOVq__w&title=How+to+Animate+Elements+on+Scroll+with+AOS+in+React%2FNext.js&lang=en&timestamp=1707114337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=200&border_radius=8 "How to Animate Elements on Scroll with AOS in React/Next.js")](https://www.youtube.com/watch?v=0FUpMOVq__w)
+
 <!-- END YOUTUBE-CARDS -->
