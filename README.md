@@ -69,8 +69,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
 
 ---
+<!--
+### 💻 Featured Youtube Videos-->
+<!-- -->
 
-### 💻 Featured Youtube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN YOUTUBE-CARDS END YOUTUBE-CARDS -->
