@@ -52,23 +52,24 @@
 - 🌐 **IoT Prototypes** – environmental parameters detection devices, smart home modules  [Check Some Out](https://www.linkedin.com/posts/israel-ikechukwu-nwangwu_in-2024-after-my-graduation-and-before-nysc-activity-7359487403364954113-lD8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrtZMsBiKpliG5cTUW_pIkJ1gWm9wiX-Ec)
 
 ---
-
+<!--
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsraelIyke&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" height="160" />
 </p>
-
+-->
 ---
 
 ### 📈 Streak and Contribution
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&&theme=tokyonight" alt="GitHub Streak" /></a>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=IsraelIyke&theme=tokyonight&margin-w=10&margin-h=10" />
 
 ---
+-->
 <!--
 ### 💻 Featured Youtube Videos-->
 <!-- -->
