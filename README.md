@@ -6,11 +6,11 @@
 <p justify="center" align="center">
   <div align="center"> <a href="https://www.linkedin.com/in/israel-ikechukwu-nwangwu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/IsraelIyke" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="http://www.youtube.com/@reactNextLib" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  </div>
-  <div align="center" >     
+ <!-- <a href="http://www.youtube.com/@reactNextLib" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ --> </div>
+<!--  <div align="center" >     
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR4enMzZ2JqamNpMmtnOGU5dWZrcWxoY241bjA4Y21xMGszcWJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-  </div>
+  </div> -->
 </p>
 
 ### 🚀 About Me  
@@ -59,10 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelIyke&layout=compact&theme=tokyonight" height="160" />
 </p>
 -->
----
 
 ### 📈 Streak and Contribution
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&&theme=tokyonight" alt="GitHub Streak" /></a>
+<div align="center" >
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsraelIyke&&theme=tokyonight" alt="GitHub Streak" /></a></div>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
