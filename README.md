@@ -45,7 +45,7 @@
 -->
 
 ### 🚀 Some of my Projects  
-[Check It Out](https://israel-nwangwu.vercel.app/#portfolio)
+[Check Them Out](https://israel-nwangwu.vercel.app/#portfolio)
 
 ---
 <!--
