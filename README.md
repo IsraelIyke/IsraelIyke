@@ -63,6 +63,8 @@
 
 ### 📈 Streak and Contribution
 [![GitHub Streak](https://github-readme-streak-stats-3j67s4rdx-israeliykes-projects.vercel.app?user=IsraelIyke)](https://git.io/streak-stats)
+### 📈 Streak and Contribution
+[![GitHub Streak](https://github-readme-streak-stats-git-vercel-israeliykes-projects.vercel.app/?user=IsraelIyke&theme=tokyonight&v=2)](https://git.io/streak-stats)
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
