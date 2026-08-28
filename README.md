@@ -45,12 +45,7 @@
 -->
 
 ### 🚀 Some of my Projects  
-- 🤖 **Ezynotify** – Telegram bot + Supabase backend for website keyword & update monitoring  [Check It Out](https://t.me/ezynotify_bot)
-- 🎓 **Edu-Tech Website** – varlc official website and platform for opportunities (scholarships, internships, research, grants, and more)  [Check It Out](https://www.varlc.com)
-- 🏗  **GIS & Engr Consultant Page** – Jayvee website for GIS and engineering Services  [Check It Out](https://www.jayveeconsultants.com)
-- 🛒 **E-commerce Site** – braxxor official website with product catalog, cart system & checkout flow  [Check It Out](https://www.braxxor.com)
-- 📑 **BOQ Mobile App** – upload building plans → get materials quantity list  [Check It Out](https://drive.google.com/drive/folders/1B1CBB2OSl8wzDYpXwJ6PYlq3xFsDS36o)
-- 🌐 **IoT Prototypes** – environmental parameters detection devices, smart home modules  [Check Some Out](https://www.linkedin.com/posts/israel-ikechukwu-nwangwu_in-2024-after-my-graduation-and-before-nysc-activity-7359487403364954113-lD8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrtZMsBiKpliG5cTUW_pIkJ1gWm9wiX-Ec)
+[Check It Out](https://israel-nwangwu.vercel.app/#portfolio)
 
 ---
 <!--
@@ -62,7 +57,11 @@
 -->
 
 ### 📈 Streak and Contribution
-[![GitHub Streak](https://readme-streak-stats-one-rho.vercel.app/?user=IsraelIyke&theme=tokyonight&v=5)](https://github.com/IsraelIyke)
+<p align="center">
+  <a href="https://github.com/IsraelIyke">
+    <img src="https://readme-streak-stats-one-rho.vercel.app/?user=IsraelIyke&theme=tokyonight&v=5" alt="GitHub Streak" />
+  </a>
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelIyke&theme=tokyo-night&hide_border=true" />
 </p>
